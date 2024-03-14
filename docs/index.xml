@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pospal Training Video</title>
+    <link>https://intelligeneer.github.io/pospal-training/</link>
+    <description>Recent content on Pospal Training Video</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 21:09:55 +1000</lastBuildDate>
+    <atom:link href="https://intelligeneer.github.io/pospal-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pospal</title>
+      <link>https://intelligeneer.github.io/pospal-training/posts/pospal/</link>
+      <pubDate>Thu, 14 Mar 2024 21:09:55 +1000</pubDate>
+      <guid>https://intelligeneer.github.io/pospal-training/posts/pospal/</guid>
+      <description>hello world</description>
+    </item>
+  </channel>
+</rss>

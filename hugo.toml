@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://intelligeneer.github.io/pospal-training/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "paper"
+title = 'Pospal Training Video'
+theme = 'paper'
