@@ -27,3 +27,6 @@ description = "There need to be add description"
 #   github = ''                  # github.com/YOUR_GITHUB_ID
 instagram = 'ada_pay_'            # instagram.com/YOUR_INSTAGRAM_ID
 avatar = "https://www.intelligeneer.com/cdn/shop/files/Screen_Shot_2022-04-28_at_11.08.37_AM.png?v=1651108130"
+
+[taxonomies]
+tag = "tags"
