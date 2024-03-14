@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Pospal Training Video</title>
+    <link>http://localhost:1313/pospal-training/tags/</link>
+    <description>Recent content in Tags on Pospal Training Video</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pospal-training/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AdaPay</title>
+      <link>http://localhost:1313/pospal-training/tags/adapay/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pospal-training/tags/adapay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BackOffice_CN</title>
+      <link>http://localhost:1313/pospal-training/tags/backoffice_cn/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pospal-training/tags/backoffice_cn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BackOffice_ENG</title>
+      <link>http://localhost:1313/pospal-training/tags/backoffice_eng/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pospal-training/tags/backoffice_eng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>POSPAL</title>
+      <link>http://localhost:1313/pospal-training/tags/pospal/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pospal-training/tags/pospal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
