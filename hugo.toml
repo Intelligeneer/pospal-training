@@ -1,6 +1,6 @@
 baseURL = 'https://intelligeneer.github.io/pospal-training/'
 languageCode = 'en-us'
-title = 'Pospal Training Video'
+title = '🖥️ Pospal Training Video'
 theme = 'paper'
 
 enableInlineShortcodes = 'true' #允许内联短码
