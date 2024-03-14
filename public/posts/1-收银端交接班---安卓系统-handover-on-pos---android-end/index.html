@@ -28,6 +28,8 @@
 
 
 
+
+
 <html
   class="not-ready lg:text-base"
   style="--bg: #faf8f1"
@@ -51,7 +53,7 @@
   
   
   
-  <meta name="description" content="右上角可以选择播放列表 " />
+  <meta name="description" content="右上角可以选择播放列表" />
   <meta name="author" content="Pospal Training Video" />
   
 
@@ -77,6 +79,8 @@
   
 
   
+  
+  <link rel="preload" as="image" href="http://localhost:1313/pospal-training/instagram.svg" />
   
   
 
@@ -176,7 +180,33 @@
   >
     
     
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/pospal-training/about/"
+        >About Us</a
+      >
+      
+    </nav>
+    
 
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./instagram.svg)"
+        href="https://instagram.com/ada_pay_"
+        target="_blank"
+        rel="me"
+      >
+        instagram
+      </a>
+      
+    </nav>
     
   </div>
 </header>
@@ -229,12 +259,6 @@
   
   
   <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
-    
-    <a
-      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="http://localhost:1313/pospal-training/posts/0-read-me/"
-      ><span class="mr-1.5">←</span><span>这是银豹系统的一个视频Training网站</span></a
-    >
     
     
     <a
