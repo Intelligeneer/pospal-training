@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🖥️ Pospal Training Video</title>
+    <title>PosPal on 🖥️ Pospal Training Video</title>
     <link>http://localhost:1313/pospal-training/</link>
-    <description>Recent content on 🖥️ Pospal Training Video</description>
+    <description>Recent content in PosPal on 🖥️ Pospal Training Video</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 10:44:25 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/pospal-training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/pospal-training/posts/photos/</link>
+      <link>http://localhost:1313/pospal-training/posts/photopost/photos/</link>
       <pubDate>Fri, 15 Mar 2024 10:44:25 +1000</pubDate>
-      <guid>http://localhost:1313/pospal-training/posts/photos/</guid>
+      <guid>http://localhost:1313/pospal-training/posts/photopost/photos/</guid>
       <description></description>
     </item>
     <item>
