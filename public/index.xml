@@ -6,8 +6,15 @@
     <description>Recent content on 🖥️ Pospal Training Video</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 22:16:45 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 10:44:25 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/pospal-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos</title>
+      <link>http://localhost:1313/pospal-training/posts/photos/</link>
+      <pubDate>Fri, 15 Mar 2024 10:44:25 +1000</pubDate>
+      <guid>http://localhost:1313/pospal-training/posts/photos/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/pospal-training/about/</link>
