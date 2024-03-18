@@ -57,7 +57,8 @@
   
   
   
-  <meta name="description" content="" />
+  <meta name="description" content="{{ $image := .Resources.Get &ldquo;a.png&rdquo; }}
+http://intelligeneer.github.io/pospal-training/posts/photos/imges/a.png" />
   <meta name="author" content="🖥️ Pospal Training Video" />
   
 
@@ -230,7 +231,7 @@
     
     <div class="text-sm antialiased opacity-60">
       
-      <time>Mar 15, 2024</time>
+      <time>Mar 18, 2024</time>
       
       
       
@@ -239,7 +240,9 @@
     
   </header>
 
-  <section><p><img src="photopost1%2Fa.jpg" alt="a.jpg"></p>
+  <section><p>{{ $image := .Resources.Get &ldquo;a.png&rdquo; }}</p>
+<p><img src="images/a.png" alt="image"></p>
+<p><a href="http://intelligeneer.github.io/pospal-training/posts/photos/imges/a.png">http://intelligeneer.github.io/pospal-training/posts/photos/imges/a.png</a></p>
 </section>
 
   

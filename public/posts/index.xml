@@ -6,14 +6,14 @@
     <description>Recent content in Posts on 🖥️ Pospal Training Video</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2024 10:44:25 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 13:28:55 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/pospal-training/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/pospal-training/posts/photopost/imgtest123/</link>
-      <pubDate>Fri, 15 Mar 2024 10:44:25 +1000</pubDate>
-      <guid>http://localhost:1313/pospal-training/posts/photopost/imgtest123/</guid>
-      <description></description>
+      <link>http://localhost:1313/pospal-training/posts/photos/photos/</link>
+      <pubDate>Mon, 18 Mar 2024 13:28:55 +1000</pubDate>
+      <guid>http://localhost:1313/pospal-training/posts/photos/photos/</guid>
+      <description>{{ $image := .Resources.Get &amp;ldquo;a.png&amp;rdquo; }}&#xA;http://intelligeneer.github.io/pospal-training/imges/a.png</description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>

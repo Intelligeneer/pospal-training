@@ -6,8 +6,15 @@
     <description>Recent content in PosPal on 🖥️ Pospal Training Video</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 22:16:45 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 13:28:55 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/pospal-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photos</title>
+      <link>http://localhost:1313/pospal-training/posts/photos/photos/</link>
+      <pubDate>Mon, 18 Mar 2024 13:28:55 +1000</pubDate>
+      <guid>http://localhost:1313/pospal-training/posts/photos/photos/</guid>
+      <description>{{ $image := .Resources.Get &amp;ldquo;a.png&amp;rdquo; }}&#xA;http://intelligeneer.github.io/pospal-training/posts/photos/imges/a.png</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/pospal-training/about/</link>

@@ -57,7 +57,7 @@
   
   
   
-  <meta name="description" content=" " />
+  <meta name="description" content="{{$image := .Resources.Get &ldquo;a.jpg}}" />
   <meta name="author" content="🖥️ Pospal Training Video" />
   
 
@@ -230,7 +230,7 @@
     
     <div class="text-sm antialiased opacity-60">
       
-      <time>Mar 15, 2024</time>
+      <time>Mar 18, 2024</time>
       
       
       
@@ -239,8 +239,7 @@
     
   </header>
 
-  <section><p><img src="Photo/pics/Pospal.png" alt="some name" title="Magic Gardens">
-<img src="pics%2FPospal.png" alt="Pospal.png"></p>
+  <section><p>{{$image := .Resources.Get &ldquo;a.jpg}}</p>
 </section>
 
   
